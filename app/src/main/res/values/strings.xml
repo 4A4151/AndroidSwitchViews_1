@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidSwitchViews_1</string>
+    <string name="Nombre"> Nombre</string>
+    <string name="Email">Email</string>
+    <string name="Edad"> Edad</string>
+    <string name="NombreTxt"> Nombre</string>
+    <string name="EmailTxt">Email</string>
+    <string name="EdadTxt"> Edad</string>
+    <string name="Button"> Enviar a siguiente pantalla</string>
+    <string name="Title"> You Entered...</string>
+    <string name="Title1"> Entraste!</string>
+    <string name="ButtonClose"> Close</string>
+</resources>
